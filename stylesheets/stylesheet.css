@@ -49,10 +49,6 @@
   padding: 20px;
 }
 
-.btn-group{
-  color: #780e11;
-}
-
 .navbar {
   color: white;
   position: relative;
@@ -71,6 +67,7 @@ h2 .notice {
     color:black;
     display:flex;
     align-items:center;
+    width: 100%;
 }
 
 #text-carousel {
@@ -78,6 +75,7 @@ h2 .notice {
   height: auto;
   padding: 50px;
 }
+
 
 .topleft {
     position: absolute;

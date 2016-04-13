@@ -63,10 +63,10 @@
     "@table-bg-active": "@table-bg-hover",
     "@table-border-color": "#ddd",
     "@btn-font-weight": "normal",
-    "@btn-default-color": "#780e11",
-    "@btn-default-bg": "#fff",
+    "@btn-default-color": "#ffffff",
+    "@btn-default-bg": "#780e11",
     "@btn-default-border": "#ccc",
-    "@btn-primary-color": "#fff",
+    "@btn-primary-color": "#780e11",
     "@btn-primary-bg": "@brand-primary",
     "@btn-primary-border": "darken(@btn-primary-bg, 5%)",
     "@btn-success-color": "#fff",
@@ -431,5 +431,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=f89cf8590a8a0b7d674f7a3f658085e6"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=af448d81a8cf550ca79380523e98f05c"
 }
