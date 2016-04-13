@@ -83,19 +83,9 @@ h2 .notice {
   padding: 50px;
 }
 
-
-.topleft {
-    position: absolute;
-    top: 8px;
-    left: 16px;
-    font-size: 18px;
-}
-
-.bottomright {
-    position: absolute;
-    bottom: 8px;
-    right: 16px;
-    font-size: 18px;
+.jumbotron{
+  background-color: #666666;
+  color: #ffffff;
 }
 
 anim{
